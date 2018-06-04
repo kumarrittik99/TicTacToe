@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">connect</string>
+    <string name="welcome">Welcome to tic tac toe!</string>
+    <string name="button">Play Again!</string>
+</resources>
